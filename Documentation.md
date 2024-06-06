@@ -3,7 +3,7 @@ This documentation is for Kavo UI Credit To xHeptc
 
 ## Booting the Kavo UI Library
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rileybeerblx2/kavo-ui/main/kavo.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ElijahGamingRBLX2/Kavo-UI/main/kavo.lua"))()
 ```
 
 
